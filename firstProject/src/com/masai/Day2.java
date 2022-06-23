@@ -7,7 +7,7 @@ public class Day2 {
         int b=15;
         System.out.println("a "+a);
         System.out.println("a++ "+a++);
-        System.out.println("a "+a);
+        System.out.println("a "+a+b);
         System.out.println(++a);//12
         System.out.println(a--);//12
         System.out.println(--a);//10
