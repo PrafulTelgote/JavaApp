@@ -9,7 +9,7 @@ public class CRICKETSCORE {
         int six=0;
         int four=0;
         int run=4;
-        
+
 
     }
 }
